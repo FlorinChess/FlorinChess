@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Florin Zamfir. I am an 18-year-old student, former professional chess player and coach. I have dedicated myself to software development and I aspire to build the next big thing. I am specialized in .NET C#.
+My name is Florin Zamfir. I am an 18-year-old student from Austria. Former professional chess player and coach, now dedicated to software development. I aspire to build the next big thing. I am specialized in .NET C#.
 <!--
 **FlorinChess/FlorinChess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
