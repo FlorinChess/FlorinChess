@@ -18,7 +18,7 @@ My name is Florin Zamfir and I am an 19-year-old student from Austria :austria:
 - :chess_pawn: Former professional chess player and coach
 - :desktop_computer: Dedicated to software development.
 - :dart: I am specialized in .NET C#.
-- :envelope: If you are interessted in hiring me, contact me at florin.developer@gmail.com
+- :envelope: For business inquiries, contact me at florin.developer@gmail.com
 
 
 ---
