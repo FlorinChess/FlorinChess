@@ -5,11 +5,7 @@
   </a>  
 </div>
 
-<div id="header">
-  <h1>
-    Hi there 👋
-  </h1>
-</div>
+## Hi there 👋
 
 ### :man_technologist: About Me :
 
