@@ -9,12 +9,13 @@
 
 ### :man_technologist: About Me :
 
-My name is Florin Zamfir and I am a student from Austria :austria:  
+My name is Florin Zamfir and I am a software engineer from Austria :austria:  
 
-- :chess_pawn: Former professional chess player and coach.
-- :desktop_computer: Dedicated to software development.
-- :dart: I am specialized in .NET C#.
-- :envelope: For business inquiries, contact me at florin.developer@gmail.com
+- ♟️ Former professional chess player and coach
+- 🖥️ Competent in many areas of software development
+- 🌐 Experienced in leading teams of developers
+- 🎯 I get things done
+- ✉️ For business inquiries, contact me at florin.developer@gmail.com
 
 
 ---
