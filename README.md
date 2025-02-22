@@ -1,10 +1,3 @@
-<div>
-  
-  <a href="https://www.linkedin.com/in/florin-chess/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>  
-</div>
-
 # Hi there 👋
 
 ### :man_technologist: About Me :
