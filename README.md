@@ -2,11 +2,11 @@
 
 ### :man_technologist: About Me :
 
-My name is Florin Zamfir and I am a software engineer from Austria :austria:  
+My name is Florin Zamfir and I am a full-stack software engineer from Austria :austria:  
 
-- ♟️ Former professional chess player and coach
 - 🖥️ Competent in many areas of software development
 - 🌐 Experienced in leading teams of developers
+- ♟️ Former professional chess player and coach
 - 🎯 I get things done
 - ✉️ For business inquiries, contact me at florin.developer@gmail.com
 
