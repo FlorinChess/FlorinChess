@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Florin Zamfir and I am a full-stack software engineer from Austria :austria:  
+Full-stack software engineer from Austria :austria:  
 
 - 🖥️ Competent in many areas of software development
 - 🌐 Experienced in leading teams of developers
@@ -47,4 +47,4 @@ My name is Florin Zamfir and I am a full-stack software engineer from Austria :a
 
 ### 🔥 Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinChess&layout=compact&theme=vision-friendly-dark)](https://github.com/FlorinChess/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
