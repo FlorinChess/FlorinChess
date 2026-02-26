@@ -47,4 +47,4 @@ Full-stack software engineer from Austria :austria:
 
 ### 🔥 Stats :
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorinChess)
