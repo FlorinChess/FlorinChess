@@ -8,7 +8,6 @@ Full-stack software engineer from Austria :austria:
 - 🌐 Experienced in leading teams of developers
 - ♟️ Former professional chess player and coach
 - 🎯 I get things done
-- ✉️ For business inquiries, contact me at florin.developer@gmail.com
 
 
 ---
